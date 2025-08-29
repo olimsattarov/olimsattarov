@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/olim-sattarov-4932201b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvO%2B7i9KoTh2Ku542X8ptNQ%3D%3D))  
+- LinkedIn: [linkedin.com/in/yourprofile]([[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/olim-sattarov-4932201b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvO%2B7i9KoTh2Ku542X8ptNQ%3D%3D)])  
 - GitHub: [github.com/username](https://github.com/olimsattarov)  
 - Email: olimbarfortress@gmail.com  
 
